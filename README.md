@@ -46,6 +46,8 @@
 
 - [Live Demo Link](https://chandan-devs-tech.github.io/Hello-World/)
 
+<img src="helloWorld.png" alt="Hello-World-IMG" width="auto"  height="auto" />
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
